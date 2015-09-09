@@ -1,4 +1,10 @@
 *.class
+/.metadata
+/.recommenders
+/ticketwatch/.settings
+/ticketwatch/target
+/ticketwatch/.classpath
+/ticketwatch/.project
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
